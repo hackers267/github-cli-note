@@ -1,0 +1,6 @@
+[book]
+authors = ["silence_zhpf"]
+language = "zh_CN"
+multilingual = false
+src = "src"
+title = "github-cli的使用笔记"
